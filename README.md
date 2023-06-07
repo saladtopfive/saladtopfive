@@ -2,7 +2,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=saladtopfive&show_icons=true&theme=calm)\
+![](https://github-readme-stats.vercel.app/api?username=saladtopfive&show_icons=true&theme=calm)
 
 - 🔭 I’m currently working on a C++/SFML game called "Tadziu's Fishing Adventure"
 - 🌱 I’m currently learning C++
