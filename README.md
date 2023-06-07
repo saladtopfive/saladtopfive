@@ -6,3 +6,4 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=saladtopfive&show_icons=true&theme=calm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
