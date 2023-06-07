@@ -5,5 +5,5 @@
 - ⚡ Fun fact: i'm racist
 
 
-![](https://github-readme-stats.vercel.app/api?username=saladtopfive&show_icons=true&theme=calm)
+![](https://github-readme-stats.vercel.app/api?username=saladtopfive&show_icons=true&theme=calm)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saladtopfive&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
